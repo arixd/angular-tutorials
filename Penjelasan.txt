@@ -1,0 +1,2 @@
+Materi yang telah di pelajari
+[06] January: Data Binding dan Property Binding 
